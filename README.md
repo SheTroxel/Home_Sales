@@ -29,5 +29,7 @@ I then formatted the data to create a parquet home sales data set, created a tem
 
 --------------------------------------------------------------------------------
 References:
+
 MSU Data Analytics Bootcamp Class Activites
-Chat GBT to confirm code, trouble shoot
+
+Chat GBT to confirm code and troubleshoot
